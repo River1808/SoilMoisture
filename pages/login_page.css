@@ -1,0 +1,250 @@
+.login-page .white-empty-room-desktop-wallpaper-plant-home-decoration-background-photo-21 {
+  background: url('../assets/images/white_empty_room_desktop_wallpaper_plant_home_decoration_background_photo_21.jpeg') 50% / cover no-repeat;
+  position: absolute;
+  top: 0px;
+  right: -6px;
+  width: 1286px;
+  height: 720px;
+}
+.login-page .vector-2 {
+  margin: 33.6px 25.2px 226px 0;
+  width: 1px;
+  height: 0.3px;
+}
+.login-page .vector-9 {
+  margin: 106.8px 70.8px 152.6px 0;
+  width: 8.4px;
+  height: 0.6px;
+}
+.login-page .image-12 {
+  background: url('../assets/images/image_12.png') 50% / cover no-repeat;
+  margin-right: 14.1px;
+  width: 30px;
+  height: 32.3px;
+}
+.login-page .username-email-1 {
+  margin: 7px 0 5.3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  text-transform: uppercase;
+  color: #05190A;
+}
+.login-page .username-email {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 18.9px 20px 27.8px;
+  display: flex;
+  flex-direction: row;
+  padding: 6px 0 6.7px 6px;
+  width: 300px;
+  box-sizing: border-box;
+}
+.login-page .password-1 {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  text-transform: uppercase;
+  color: #05190A;
+}
+.login-page .password {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  position: relative;
+  margin: 0 18.9px 43px 27.8px;
+  display: flex;
+  padding: 13px 113px 12px 0;
+  width: 300px;
+  box-sizing: border-box;
+}
+.login-page .login {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.login-page .login-btn {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  background: #4CAF4F;
+  position: relative;
+  margin: 0 18.9px 9px 27.8px;
+  display: flex;
+  padding: 13px 0 12px 0;
+  width: 300px;
+  box-sizing: border-box;
+}
+.login-page .forgot-password {
+  margin: 0 0 14px 8.9px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #107EFF;
+}
+.login-page .dont-have-an-account-yet {
+  margin: 0 14.3px 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.login-page .create-account {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 16px;
+  color: #107EFF;
+}
+.login-page .container-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.login-page .container-10 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.login-page .remove-bg-ai-17184415864112 {
+  background: url('../assets/images/remove_bg_ai_17184415864112.png') 50% / cover no-repeat;
+  margin-right: 0.1px;
+  width: 75px;
+  height: 73px;
+}
+.login-page .plantville {
+  margin: 25px 0 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Simonetta';
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 0.6;
+  color: #4CAF4F;
+}
+.login-page .container-11 {
+  margin: 0 33.1px 69.3px 33.1px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .container {
+  margin: 0 70.5px 0.3px 0;
+  width: 1.7px;
+  height: 0.3px;
+}
+.login-page .vector-5 {
+  margin: 0 70.4px 5px 0;
+  width: 2.9px;
+  height: 0.8px;
+}
+.login-page .container-6 {
+  margin: 0 400.8px 25.4px 0;
+  width: 3.9px;
+  height: 6px;
+}
+.login-page .welcome-to-plantville {
+  position: relative;
+  margin: 10.5px 17px 0 0;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Reenie Beanie';
+  font-weight: 500;
+  font-size: 90px;
+  line-height: 0.267;
+  color: #000000;
+}
+.login-page .image-13 {
+  background: url('../assets/images/image_13.png') 50% / cover no-repeat;
+  margin-bottom: 28.5px;
+  width: 30px;
+  height: 30px;
+}
+.login-page .container-4 {
+  margin-bottom: 23.5px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.login-page .vector-28 {
+  margin: 13.3px 0 29.9px 0;
+  width: 3.2px;
+  height: 1.8px;
+}
+.login-page .image-5 {
+  mix-blend-mode: soft-light;
+  background: url('../assets/images/image_5.png');
+  width: 300px;
+  height: 45px;
+}
+.login-page .container-2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 398.2px;
+  box-sizing: border-box;
+}
+.login-page .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.login-page .vector-10 {
+  position: absolute;
+  left: 429.3px;
+  top: 317.1px;
+  width: 8px;
+  height: 41.7px;
+}
+.login-page .container-8 {
+  position: absolute;
+  left: 437.9px;
+  top: 314.8px;
+  width: 2.5px;
+  height: 47.8px;
+}
+.login-page .container-1 {
+  background: url('../assets/images/image_4.png');
+  position: absolute;
+  right: -47px;
+  bottom: -138px;
+  padding: 0 42px;
+  width: 1074px;
+  height: 869px;
+  box-sizing: border-box;
+}
+.login-page {
+  background: #FFFFFF;
+  display: flex;
+  padding: 197px 0 263px 485.7px;
+  width: 1280px;
+  box-sizing: border-box;
+}

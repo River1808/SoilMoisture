@@ -1,0 +1,119 @@
+.infobox-2 .vector {
+  width: 14.7px;
+  height: 12.7px;
+}
+.infobox-2 .iconswarning {
+  margin: 1.7px 8.7px 1.7px 0;
+  display: flex;
+  width: 14.7px;
+  height: 12.7px;
+  box-sizing: border-box;
+}
+.infobox-2 .infobox-title {
+  overflow-wrap: break-word;
+  font-family: var(--component-heading-3-font-family, 'Inter');
+  font-weight: var(--component-heading-3-font-weight, 500);
+  font-size: var(--component-heading-3-font-size, 16px);
+  line-height: var(--component-heading-3-line-height, 1);
+  color: var(--neutrals-text-primary, #11151F);
+}
+.infobox-2 .frame-1 {
+  margin: 4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.infobox-2 .vector-1 {
+  width: 9.3px;
+  height: 9.3px;
+}
+.infobox-2 .base-close-button {
+  border-radius: 100px;
+  background: rgba(255, 255, 255, 0.35);
+  display: flex;
+  padding: 7.3px;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.infobox-2 .header {
+  margin-bottom: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.infobox-2 .lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500-swhen-an-unknown-printer-took-agalley-of-type-and-scrambled-it-to-make-atype-specimen-book {
+  overflow-wrap: break-word;
+  font-family: var(--editorial-body-regular-font-family, 'Inter');
+  font-weight: var(--editorial-body-regular-font-weight, 400);
+  font-size: var(--editorial-body-regular-font-size, 14px);
+  line-height: var(--editorial-body-regular-line-height, 1.5);
+  color: #000000;
+}
+.infobox-2 .content {
+  margin: 0 23.3px 8px 23.3px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.infobox-2 .vector-3 {
+  width: 9.3px;
+  height: 12px;
+}
+.infobox-2 .bookmark {
+  margin: 1px 11.3px 1px 0;
+  display: flex;
+  width: 9.3px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.infobox-2 .label {
+  margin-right: 8.9px;
+  overflow-wrap: break-word;
+  font-family: var(--component-body-semibold-font-family, 'Inter');
+  font-weight: var(--component-body-semibold-font-weight, 600);
+  font-size: var(--component-body-semibold-font-size, 14px);
+  line-height: var(--component-body-semibold-line-height, 1);
+  color: var(--neutrals-text-tertiary, #445275);
+}
+.infobox-2 .vector-2 {
+  width: 14.7px;
+  height: 10px;
+}
+.infobox-2 .visibility {
+  margin: 2px 0;
+  display: flex;
+  width: 14.7px;
+  height: 10px;
+  box-sizing: border-box;
+}
+.infobox-2 .button-base {
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.35);
+  display: flex;
+  flex-direction: row;
+  padding: 9px 12.7px 9px 15.3px;
+  box-sizing: border-box;
+}
+.infobox-2 .cta {
+  margin: 0 23.3px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.infobox-2 .base-infobox-container {
+  border-radius: 10px;
+  background: #CDE4D2;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 16px 16px 16.7px;
+  width: 100%;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.infobox {
+  display: flex;
+  box-sizing: border-box;
+}

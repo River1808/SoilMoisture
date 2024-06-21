@@ -1,0 +1,215 @@
+.register-page .image-11 {
+  background: url('../assets/images/image_11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.register-page .remove-bg-ai-17184415864112 {
+  background: url('../assets/images/remove_bg_ai_17184415864112.png') 50% / cover no-repeat;
+  margin-right: 0.1px;
+  width: 75px;
+  height: 73px;
+}
+.register-page .plantville {
+  margin: 25px 0 24px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Simonetta';
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 0.6;
+  color: #4CAF4F;
+}
+.register-page .container {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.register-page .join-us-now {
+  position: relative;
+  margin: 30.5px 0px 18.5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Reenie Beanie';
+  font-weight: 500;
+  font-size: 90px;
+  line-height: 0.267;
+  color: #000000;
+}
+.register-page .container-1 {
+  margin: 0 0 30px 81px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 796.8px;
+  box-sizing: border-box;
+}
+.register-page .image-14 {
+  background: url('../assets/images/image_14.png') 50% / cover no-repeat;
+  margin-right: 25px;
+  width: 30px;
+  height: 30px;
+}
+.register-page .enter-your-email {
+  margin: 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  text-transform: uppercase;
+  color: #05190A;
+}
+.register-page .username-email-1 {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 14px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 0 7px 10px;
+  width: 421px;
+  box-sizing: border-box;
+}
+.register-page .username {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  text-transform: uppercase;
+  color: #05190A;
+}
+.register-page .username-email {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 11px;
+  display: flex;
+  padding: 12px 207.4px 13px 0;
+  width: 421px;
+  box-sizing: border-box;
+}
+.register-page .new-password {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  text-transform: uppercase;
+  color: #05190A;
+}
+.register-page .password-1 {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 14px;
+  display: flex;
+  padding: 13px 164.8px 12px 0;
+  width: 421px;
+  box-sizing: border-box;
+}
+.register-page .confirm-password {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.429;
+  text-transform: uppercase;
+  color: #05190A;
+}
+.register-page .password {
+  border-radius: 4px;
+  border: 1px solid #000000;
+  position: relative;
+  margin-bottom: 31px;
+  display: flex;
+  padding: 13px 131.4px 12px 0;
+  width: 421px;
+  box-sizing: border-box;
+}
+.register-page .sign-up {
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.25;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
+.register-page .login-btn {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+  background: #4CAF4F;
+  position: relative;
+  display: flex;
+  padding: 13px 0 12px 0;
+  width: 421px;
+  box-sizing: border-box;
+}
+.register-page .form {
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.register-page .container-2 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.register-page .image-5 {
+  mix-blend-mode: soft-light;
+  background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 0px;
+  bottom: 60px;
+  width: 535px;
+  height: 364px;
+}
+.register-page .image-8 {
+  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  position: absolute;
+  right: -878px;
+  bottom: -676px;
+  width: 1490px;
+  height: 1472px;
+}
+.register-page .image-12 {
+  background: url('../assets/images/image_12.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 126px;
+  top: 282px;
+  width: 30px;
+  height: 32.3px;
+}
+.register-page .image-13 {
+  background: url('../assets/images/image_13.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 127px;
+  top: 340px;
+  width: 30px;
+  height: 30px;
+}
+.register-page .image-15 {
+  background: url('../assets/images/image_15.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 127px;
+  bottom: 291px;
+  width: 30px;
+  height: 30px;
+}
+.register-page {
+  background: #FFFFFF;
+  padding: 114px 114px 208px 114px;
+  width: 1280px;
+  box-sizing: border-box;
+}
